@@ -3,8 +3,8 @@ An old Delphi search and ordering program made for a hypothetical company that s
 
 You can order tires that are in stock. You can search by vehicle or size.
 
-![](../gumiker-2005/pic/image_0.png)
-![](../gumiker-2005/pic/image_1.png)
-![](../gumiker-2005/pic/image_3.png)
-![](../gumiker-2005/pic/image_2.png)
-![](../gumiker-2005/pic/image_4.jpg)
+![](pic/image_0.png)
+![](pic/image_1.png)
+![](pic/image_3.png)
+![](pic/image_2.png)
+![](pic/image_4.jpg)
