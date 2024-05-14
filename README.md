@@ -1,3 +1,4 @@
+This repository has been archived !
 # gumiker-2005
 An old(2005) Delphi search and ordering program made for a hypothetical company that sells tires.
 
